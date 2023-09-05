@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactHomeworkProps/static/css/main.d74be25c.css",
+    "main.js": "/reactHomeworkProps/static/js/main.d2697c67.js",
+    "index.html": "/reactHomeworkProps/index.html",
+    "main.d74be25c.css.map": "/reactHomeworkProps/static/css/main.d74be25c.css.map",
+    "main.d2697c67.js.map": "/reactHomeworkProps/static/js/main.d2697c67.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d74be25c.css",
+    "static/js/main.d2697c67.js"
+  ]
+}
